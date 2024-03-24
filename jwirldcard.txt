@@ -1,0 +1,17 @@
+jetblue.com
+aksdev.jetblue.com
+aksdevng.jetblue.com
+aksprd.jetblue.com
+aksqa.jetblue.com
+aksstg.jetblue.com
+apiuat.paisly.jetblue.com
+crystalblue.jetblue.com
+csp-test.jetblue.com
+dev.travelproducts.jetblue.com
+nprdase.jetblue.com
+paisly.jetblue.com
+prdase.jetblue.com
+scm.nprdase.jetblue.com
+stgase.jetblue.com
+vacations.jetblue.com
+vacationsqa2.jetblue.com

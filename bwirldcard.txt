@@ -1,0 +1,12 @@
+bitmex.com
+academy.bitmex.com
+analytics.bitmex.com
+devhk.services.bitmex.com
+marketing.bitmex.com
+services.bitmex.com
+testnet.bitmex.com
+testnet.services.bitmex.com
+blockchain.com
+booztlet.com
+boozt.com
+spk.boozt.com
